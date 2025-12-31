@@ -52,7 +52,7 @@ A complete REST API for a blogging platform built with NestJS, TypeORM, and Post
    ```
 
 5. **Access the API**
-   - API: http://localhost:3000
+   - API: http://localhost:3000/api
    - Docs: http://localhost:3000/api
 
 [Full Installation Guide](./INSTALLATION.md)

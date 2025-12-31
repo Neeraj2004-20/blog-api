@@ -32,7 +32,7 @@ A complete REST API for a blogging platform built with NestJS, TypeORM, and Post
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/blog-api.git
+   git clone https://github.com/Neeraj2004-20/blog-api.git
    cd blog-api
    ```
 
